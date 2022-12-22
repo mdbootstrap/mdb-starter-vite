@@ -24,6 +24,8 @@ ___
 npm install
 ```
 
+A free version of **MDB UI Kit** is already included as a dependency, to upgrade it to PRO version install the package you own with the command below.
+
 > **Pro Essential installation**
 > ```
 > npm install git+https://oauth2:ACCESS_TOKEN@git.mdbootstrap.com/mdb/standard/mdb-ui-kit-pro-essential
