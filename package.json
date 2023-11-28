@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "vite",
-    "build": "vite build",
+    "build": "vite build --emptyOutDir",
     "test": "jest",
     "lint": "lint-staged && pretty-quick --staged",
     "deploy": "vite build && cd dist && mdb publish"
